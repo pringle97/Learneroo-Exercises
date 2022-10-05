@@ -10,3 +10,5 @@ function WasTripSuccessful(gold, pirates) {
 
 console.log(WasTripSuccessful(40, 50))
 console.log(WasTripSuccessful(50, 100))
+console.log(WasTripSuccessful(50, 30))
+console.log(WasTripSuccessful(0, 0))
